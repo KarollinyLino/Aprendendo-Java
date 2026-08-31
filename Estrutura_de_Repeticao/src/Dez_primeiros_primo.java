@@ -1,5 +1,4 @@
 public class Dez_primeiros_primo {
-    //Data24/08/26
     public static void main(String[] args){
         int cont = 0;
         int num = 2;
