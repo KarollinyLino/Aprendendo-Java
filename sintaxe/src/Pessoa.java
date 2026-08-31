@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//ATV_02 dia 10/08/26
 public class Pessoa {
     public static void main (String[] args){
         Scanner leitor = new Scanner(System.in);
