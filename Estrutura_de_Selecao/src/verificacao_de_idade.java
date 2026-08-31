@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//ATV_01 DIA: 17/08/26
 public class verificacao_de_idade {
     public static void main (String[] args){
         Scanner leitor = new Scanner(System.in);
