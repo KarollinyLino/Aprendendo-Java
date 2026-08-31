@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//ATV_02 Dia 23/08/26
 public class Vericacao_de_numero_primo {
     public static void main (String[] args) {
         Scanner leitor = new Scanner(System.in);
