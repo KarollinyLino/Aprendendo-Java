@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//ATV_2 DIA: 17/08/26
 public class Qual_e_o_Mes {
     public static void main (String[] args){
         Scanner leitor = new Scanner(System.in);
