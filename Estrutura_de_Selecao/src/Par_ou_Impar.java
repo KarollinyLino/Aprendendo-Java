@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//DIA: 17/08/26
 public class Par_ou_Impar {
     public static void main(String[] args){
         Scanner leitor = new Scanner(System.in);
